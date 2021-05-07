@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alamin
 - 👀 I’m interested in learning & exploring data analysis oriented work with web based solutions.
-- 🌱 I’m currently learning business analytics, GraphQL and Nodejs
+- 🌱 I’m currently learning business analytics, Lambda and Nodejs
 - 💞️ I’m looking to collaborate on web based works
 
 - 🤔 I’m ready to help with php,JS, python, AWS, Tableau and so on
