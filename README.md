@@ -5,7 +5,7 @@
 
 - 🤔 I’m ready to help with php,JS, python, AWS, Tableau and so on
 - 💬 Ask me about anything data and code related
-- 🥅 2021 Goals: Learning from people as much as possible that I didn't know
+- 🥅 2024 Goals: Learning from people as much as possible that I didn't know
 - ⚡ Fun fact: I love to learn, code & fishing
 - 📫 How to reach me: alamincse07@gmail.com
 
